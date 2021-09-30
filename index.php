@@ -11,7 +11,7 @@
 
 
     <!-- title -->
-    <title> Guru Nanak || Login </title>
+    <title> Guru Nanak Sen. Sec. School || Login </title>
 </head>
 
 <body>
