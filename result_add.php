@@ -10,7 +10,7 @@ include('session.php');
 
     
 
-    <title>Guru Nank || ADD RESULT</title>
+    <title>Guru Nank SEN. Sec. School || ADD RESULT</title>
     <link rel="stylesheet" href="Stylesheets/style2.css">
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 </head>
